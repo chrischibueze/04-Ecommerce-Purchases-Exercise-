@@ -1,1 +1,1 @@
-# 04-Ecommerce-Purchases-Exercise-
+# Name entity recognition
